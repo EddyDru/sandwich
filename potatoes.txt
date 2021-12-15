@@ -4,6 +4,5 @@ Moutarde
 Mayonnaise
 Barbecue
 Béarnaise
-<<<<<<< HEAD
 Poivre
 
